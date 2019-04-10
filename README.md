@@ -4,7 +4,7 @@ _Learning to use javascript and test jasmine._
 ## Develop  🛠️
 _make a new fuction for the game FizzBuzz(the file spec and src)._
 
-_add this code in the console in the browser :
+_add this code in the console in the browser_ :
 ```
 var fizzBuzz = new FizzBuzz();
 
